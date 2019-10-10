@@ -1,0 +1,4 @@
+[submodule "jdpatterson.github.io"]
+	path = jdpatterson.github.io
+	url = https://github.com/p4tterson/jdpatterson.github.io.git
+	branch = master
