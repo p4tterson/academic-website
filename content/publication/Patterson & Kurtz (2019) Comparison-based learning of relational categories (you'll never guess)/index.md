@@ -26,10 +26,10 @@ tags:
 - Observational mode
 - Classification mode
 - Transfer
-title: "Patterson & Kurtz (in press) Comparison-based learning of relational categories (you'll never guess)"
+title: "Patterson & Kurtz (2019) Comparison-based learning of relational categories (you'll never guess)"
 url_code: ""
 url_dataset: ""
-url_pdf: "Patterson & Kurtz (in press) Comparison-based learning of relational categories (you'll never guess)"
+url_pdf: "Patterson & Kurtz (2019) Comparison-based learning of relational categories (you'll never guess).pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
