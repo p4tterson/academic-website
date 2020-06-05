@@ -3,7 +3,7 @@ abstract: "In accord with structural alignment theory, same-category comparison 
 authors:
 - admin
 - Kenneth J. Kurtz
-date: "2019-09-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: "http://dx.doi.org/10.1037/xlm0000758"
 featured: true
 image:
@@ -15,7 +15,7 @@ publication: '*Journal of Experimental Psychology: Learning, Memory, and Cogniti
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 <!-- slides: example -->
 summary: The guess-and-correct cycle undermines the benefits of comparison opportunities.
 tags:
@@ -26,10 +26,10 @@ tags:
 - Observational mode
 - Classification mode
 - Transfer
-title: "Patterson & Kurtz (2019) Comparison-based learning of relational categories (you'll never guess)"
+title: "Patterson & Kurtz (2020) Comparison-based learning of relational categories (you'll never guess)"
 url_code: ""
 url_dataset: ""
-url_pdf: "Patterson & Kurtz (2019) Comparison-based learning of relational categories (you'll never guess).pdf"
+url_pdf: "Patterson & Kurtz (2020) Comparison-based learning of relational categories (you'll never guess).pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

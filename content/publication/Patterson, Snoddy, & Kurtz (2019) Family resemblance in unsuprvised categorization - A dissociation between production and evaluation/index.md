@@ -25,7 +25,7 @@ tags:
 - Evaluation
 - Category Construction
 - Structure Choice Task
-title: "Patterson, Snoddy, & Kurtz (2019) Family Resemblance in Unsupervised Categorization: A Dissociation Between Production and Evaluation."
+title: "Patterson, Snoddy, & Kurtz (2019) Family Resemblance in unsupervised categorization: A dissociation between production and evaluation."
 url_code: ''
 url_dataset: ''
 url_pdf: "Patterson, Snoddy, & Kurtz (2019) Family Resemblance in Unsupervised Categorization - A Dissociation Between Production and Evaluation."
