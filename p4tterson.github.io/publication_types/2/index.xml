@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | John D. Patterson</title>
+    <link>https://p4tterson.github.io/publication_types/2/</link>
+      <atom:link href="https://p4tterson.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://p4tterson.github.io/img/face.jpg</url>
+      <title>2</title>
+      <link>https://p4tterson.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Patterson &amp; Kurtz (2020) Comparison-based learning of relational categories (you&#39;ll never guess)</title>
+      <link>https://p4tterson.github.io/publication/patterson-kurtz-2020-comparison-based-learning-of-relational-categories-youll-never-guess/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://p4tterson.github.io/publication/patterson-kurtz-2020-comparison-based-learning-of-relational-categories-youll-never-guess/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
