@@ -19,13 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctoral - Beaty Lab"
+  company = "The Pennsylvania State University"
+  company_url = "https://beatylab.la.psu.edu"
+  location = "University Park, Pennsylvania"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """**Investigating deep-learning-based approaches for understanding creativity and automating creativity assessment**
+  """
+  
+[[experience]]
   title = "Postdoctoral - Karuza Lab"
   company = "The Pennsylvania State University"
   company_url = "https://karuzalab.la.psu.edu"
   location = "University Park, Pennsylvania"
   date_start = "2019-09-01"
   date_end = ""
-  description = """**Investigating the role of noise in active learning and multimodal category learning**
+  description = """**Studying how learners explore and learn in the context of conflicting label-to-referent mapping systems**
   """
 
 [[experience]]
