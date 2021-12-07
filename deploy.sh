@@ -6,7 +6,7 @@ set -e
 
 ## SAVE CHANGES TO WEBSITE REPO (academic-website)
 # Remove public directory
-# rm -rf public
+rm -rf public
 
 # Add changes to git.
 git add .
@@ -24,7 +24,7 @@ git push origin master
 
 ## UPDATE ACTUAL WEBSITE (p4tterson.github.io) - might have to stop hugo server here
 # Remove public directory
-# rm -rf public
+rm -rf public
 
 # Build the project & add it to the github pages folder
 hugo -d p4tterson.github.io
